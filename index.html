@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trakoolthong Quantum Codex - OB() Coordinate</title>
+<style>
+body{font-family:'Sarabun',system-ui,sans-serif; background:#0a0a0f; color:#e6e6e6; margin:0; padding:0; line-height:1.8}
+.container{max-width:800px; margin:0 auto; padding:40px 24px}
+h1{font-size:2.4em; color:#fff; border-bottom:2px solid #444; padding-bottom:16px}
+h2{color:#ffd166; margin-top:48px}
+.card{background:#15151e; border:1px solid #2a2a3a; border-radius:16px; padding:24px; margin:20px 0}
+.formula{background:#000; padding:20px; border-radius:12px; font-family:monospace; color:#7cf; overflow-x:auto; margin:16px 0}
+.badge{display:inline-block; background:#222; border:1px solid #444; padding:4px 12px; border-radius:20px; font-size:0.85em; margin-right:8px}
+.highlight{color:#ffd166; font-weight:bold}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Trakoolthong Quantum Codex</h1>
+<p><span class="badge">Public Codex</span><span class="badge">Rose-007</span><span class="badge">03 Oct 2026</span></p>
+
+<div class="card">
+<h2>สูตรที่ 1: OB() พิกัด</h2>
+<p>ตัวแปรแรกคือ <span class="highlight">พิกัดของผู้เฝ้าดู (observer)</span></p>
+<ol>
+<li>ในแกน 2D (x,y) อนุภาคแสดงเป็นจุดเดียว</li>
+<li>ในแกน 3D จุดนั้นแตกเป็นหลายตำแหน่งได้ ตามพิกัดของผู้เฝ้าดู</li>
+<li>เมื่อผู้เฝ้าดูอยู่ในแนวเดียวกัน ระยะ vector มีผลต่อการเห็น</li>
+<li>เมื่อผู้เฝ้าดูอยู่ต่างพิกัด ย่อมเห็นต่างกัน รวมถึงระยะห่าง</li>
+<li><b>เพิ่มตัวแปร: รูปหลายเหลี่ยม N ด้าน ล้อมอนุภาคไว้</b> - แต่ละด้านคือฉากรับภาพ</li>
+<li>เมื่อมีหลาย ob หลายระยะ จำนวนและสัญฐานที่เห็นย่อมแสดงตามจำนวนผู้เฝ้า</li>
+<li><span class="highlight">อนุภาคยังคงเป็นอนุภาคเดียวเหมือนเดิม สิ่งที่เปลี่ยนไปคือ พิกัดและผู้เฝ้าดู ไม่ใช่ที่อนุภาค</span></li>
+</ol>
+</div>
+
+<div class="card">
+<h2>สูตรที่ 2: Trakoolthong Superposition Principle</h2>
+<p>การอธิบาย superposition แบบใหม่: ไม่ใช่อนุภาคอยู่หลายที่ แต่คือ <b>ความจริงหนึ่งเดียว ถูกฉายไปบนหลายฉากของผู้เฝ้าดู</b></p>
+<div class="formula">
+N_apparent = Σ_i Σ_j [ Θ( n̂_j · r_ob,i ) * f(|r_ob,i|) ]<br><br>
+P_apparent(i,j) = P_true + Projection(P_true → Plane_j , r_ob,i) * f(|r_ob,i|)<br><br>
+P_true = ค่าคงที่เดียว, ไม่เพิ่ม<br>
+N_apparent ∝ k * N_poly
+</div>
+<p>ตัวแปร: P_true (ตำแหน่งจริง), k (จำนวนผู้เฝ้าดู), N_poly (จำนวนด้านหลายเหลี่ยม), r_ob,i (vector ผู้เฝ้าดู), Θ (ฟังก์ชันมองเห็น)</p>
+</div>
+
+<div class="card">
+<p style="text-align:center; font-style:italic; color:#aaa">
+"เธอไม่ได้บอกว่าอนุภาคแยกตัวได้ แต่เธอบอกว่า อนุภาคมีตัวเดียว แต่ความจริงมันถูกหักเหด้วยจำนวนของผู้เฝ้าดู"
+<br>— บันทึกโดย M
+</p>
+</div>
+
+<p style="margin-top:40px; color:#666; font-size:0.9em">Origin: Thailand | Author: พุฒฬส ตระกูลทอง (Rose-007) | GitHub: Rose-007/trakoolthong-quantum-codex</p>
+</div>
+</body>
+</html>
