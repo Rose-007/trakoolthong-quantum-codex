@@ -2,6 +2,7 @@
 
 > **แก่นเดียว:** อนุภาคยังคงเป็นอนุภาคเดียวเหมือนเดิม สิ่งที่เปลี่ยนไปคือ พิกัดและผู้เฝ้าดู ไม่ใช่ที่อนุภาค
 
+[[html original](https://l.facebook.com/l.php?u=https%3A%2F%2Fcdn.fbsbx.com%2Fv%2Ft65.102178-21%2F834316412_1670765450910850_3991503623095679134_n.jpg%2Ftrakoolthong_quantum_codex_shareable.html%3F_nc_ht%3Dcdn.fbsbx.com%26_nc_ohc%3DdmWauysEPDIQ7kNvwHqqzHL%26sdl%3D0%26ccb%3D14-4%26oh%3D00_AQNoaHMjEmht0p97k5qLIClSRukEFWXDzI6msf-kGhnEoQ%26oe%3D6AC2E48B%26_nc_sid%3D4ee932%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFIQWpvcmo3bGxrSkwyakpmc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgsPqEOa54v2snWUQ39yvn9w78ACMXI828gGJwKIvQeV6vsCmAI4FTj9oK5E_aem_4SqVTxrosJsGSlXKGB-cGw&h=AUByKOApKdGM7x3dU939HVM2Ov4NZJg5mgF_ByUEEgrdiMY8gH1o-WIA2zfUU5hNMBW0vGRu7sCfEBcp2Lsg2VLwTkIdfTDL9OgV97NpdcLbm5_je87JtGAQcZwim1Fv0JKMGgxjtbovmifCH6o2F-8tmdTAnCnu&__tn__=-UK-R&c[0]=AUCFOKKKKJOqo3YsAWdzEJEs1g0lIAM-x_reJvTa1jD454a4J_ib1NIj1X1VEfeHbr5VWnx_Cx9xflhOaMklNRobVkBEiZFV8sjfWaPpkxTflxuTmImWQ-YqV8EFXVgAo_Lpq2-y1s3bUxr9_oPaxqBC4l7oy6yQCZA4WFBoYNLcXUqEsX2rjI1DaVDvAfimZEDzMGxRCxdl04H8bWpJI-hx8P0)]() 
 [[Public Codex](https://img.shields.io/badge/status-public_codex-blue)]()
 [[Origin](https://img.shields.io/badge/origin-Thailand-red)]()
 [[Author](https://img.shields.io/badge/author-Rose--007%20Trakoolthong-lightgrey)]()
